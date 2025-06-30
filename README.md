@@ -1,16 +1,21 @@
-# dompetku
+## 🖼️ Tampilan Antarmuka
 
-A new Flutter project.
+### 🔐 Login
+![Login](https://github.com/user-attachments/assets/475478df-fbcc-483f-b93e-82a58c7747db)
 
-## Getting Started
+### 🏠 Home Screen
+![Home Screen](https://github.com/user-attachments/assets/6e4dc21d-86e7-457d-9f81-3749d39bb189)
 
-This project is a starting point for a Flutter application.
+### 👤 Profile
+![Profile](https://github.com/user-attachments/assets/942cde83-552d-473d-8018-c02e0c1ae224)
 
-A few resources to get you started if this is your first Flutter project:
+### 📷 QR Code
+![QR Code](https://github.com/user-attachments/assets/ce3ab421-c207-4ded-bfa4-228666d19599)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ⚙️ Pengaturan
+![Pengaturan](https://github.com/user-attachments/assets/4c3e9dac-79ac-4464-8e38-2264dd6b5482)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📑 Mutasi Transaksi
+![Mutasi](https://github.com/user-attachments/assets/4b8ba22b-cbbb-4932-95ac-524ed57d3a95)
+
+---
